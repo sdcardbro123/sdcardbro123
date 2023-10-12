@@ -14,11 +14,9 @@
 
 ## Top Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdcardbro123&theme=tokyonight)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumishdas&show_icons=true&locale=en&layout=compact" alt="soumishdas" /></p>
 
 ## Request:
 
 <a href="https://www.buymeacoffee.com/suprateekdhar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdcardbro123&show_icons=true&locale=en&layout=compact" alt="suprateek" /></p>
