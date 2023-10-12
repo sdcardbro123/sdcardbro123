@@ -14,7 +14,7 @@
 
 ## Top Languages:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumishdas&show_icons=true&locale=en&layout=compact" alt="soumishdas" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdcardbro123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sdcardbro123" /></p>
 
 ## Request:
 
